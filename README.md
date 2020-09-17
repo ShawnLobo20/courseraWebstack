@@ -1,2 +1,2 @@
 # courseraWebstack
-a repository for the Coursera HTML, CSS and Javascript course
+A repository for the Coursera HTML, CSS and Javascript course.
